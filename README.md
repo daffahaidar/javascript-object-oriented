@@ -1,0 +1,3 @@
+### Prerequisites
+
+- Basic Javascript knowledge
