@@ -2,7 +2,8 @@
 
 - Basic Javascript knowledge
 
-## Usage/Installation
+
+## Installation Using HTML
 
 ```html
 <!DOCTYPE html>
@@ -17,7 +18,19 @@
     <script type="text/javascript">
       // put your code here
     </script>
+
+    <!-- or (Select one) --> 
+
+    <script src="YourFile.js"></script>
   </body>
 </html>
 
 ```
+
+## Installation Using Node Js
+
+```bash
+cd YourJsFolder
+node fileName.js
+```
+
