@@ -17,12 +17,12 @@ Person.prototype.run = function () {
   console.info(`${this.firstName} is running`);
 };
 
-const eko = new Person("Daffa", "Haidar");
+const person1 = new Person("Daffa", "Haidar");
 
-const budi = new Person("Nabil", "Zufar");
+const person2 = new Person("Nabil", "Zufar");
 
-console.log(eko);
-console.log(budi);
+console.log(person1);
+console.log(person2);
 
-eko.sayBye();
-eko.run();
+person1.sayBye();
+person1.run();
